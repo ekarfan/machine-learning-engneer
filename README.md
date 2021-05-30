@@ -3,10 +3,11 @@ Understanding our customers is the key providing them a good service and sustain
 
 ## Table of Contents:
 1. [Project Overview](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Project-Overview)
-2. [Problem Statement / Metrics](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Problem-Statement-/-Metrics)
+2. [Problem Statement](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Problem-Statement)
 3. [Installation](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Installation)
 4. [Project Motivation](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Project-Motivation)
 5. [File Descriptions](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#File-Descriptions)
+6. [Solution Statement](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Solution Statement) 
 
 ## Project Overview:
 
@@ -76,7 +77,7 @@ Here is the schema and explanation of each variable in the files:
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-## Solution Statementv:
+## Solution Statement:
 
 *	Preprocessing—merging all the data, cleaning up data
 *	EDA – performing a deep dive analysis on each element
