@@ -24,7 +24,7 @@ The goal is to predict whether or not a user will response an offer that is sent
 
 
 ## Installation:
-This project requires **Python 3.x** and the following Python libraries installed:
+You need an environment for jupyter notebook. You should be able to execute code with python3.X. 
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
