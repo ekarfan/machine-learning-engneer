@@ -7,7 +7,7 @@ Understanding our customers is the key providing them a good service and sustain
 3. [Installation](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Installation)
 4. [Project Motivation](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Project-Motivation)
 5. [File Descriptions](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#File-Descriptions)
-6. [Solution Statement](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Solution Statement) 
+6. [Solution Statement](https://github.com/Aditya-Kashyap/starbucks-capstone-challenge#Solution-Statement) 
 
 ## Project Overview:
 
